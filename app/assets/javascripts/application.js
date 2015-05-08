@@ -11,6 +11,7 @@
 // about supported directives.
 //
 //= require angular-rails-templates
+//= require angular-devise
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
